@@ -1,0 +1,25 @@
+{
+  "name": "image-upload-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjcheng94/image-upload-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjcheng94/image-upload-server/issues"
+  },
+  "homepage": "https://github.com/cjcheng94/image-upload-server#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1179.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
